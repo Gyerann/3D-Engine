@@ -1,0 +1,12 @@
+﻿  3Dengine.cpp
+D:\Programming\Archive\3Dengine\3Dengine\olcConsoleGameEngine.h(742,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\Archive\3Dengine\3Dengine\olcConsoleGameEngine.h(1082,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Programming\Archive\3Dengine\3Dengine\olcConsoleGameEngine.h(1179,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+D:\Programming\Archive\3Dengine\3Dengine\3Dengine.cpp(156,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\Archive\3Dengine\3Dengine\3Dengine.cpp(156,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\Archive\3Dengine\3Dengine\3Dengine.cpp(155,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\Archive\3Dengine\3Dengine\3Dengine.cpp(155,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\Archive\3Dengine\3Dengine\3Dengine.cpp(154,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\Archive\3Dengine\3Dengine\3Dengine.cpp(154,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Programming\Archive\3Dengine\3Dengine\3Dengine.cpp(123,42): warning C4101: 'triRotatedX': unreferenced local variable
+  3Dengine.vcxproj -> D:\Programming\Archive\3Dengine\x64\Debug\3Dengine.exe
